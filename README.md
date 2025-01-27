@@ -1,1 +1,1 @@
-# Apple-Leaf-Disease-Classification-with-Deep-Learning
+# Apple Leaf Disease Classification with Deep Learning
