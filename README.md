@@ -4,6 +4,8 @@
 
 This project uses the **PlantVillage Dataset** to analyze and classify apple leaf images based on their condition or disease. The dataset includes three categories: **Apple___Apple_scab**, **Apple___Black_rot**, and **Apple___healthy**, with grayscale images of apple leaves. The focus is on applying various machine learning techniques, such as PCA, clustering algorithms, and neural networks, for dimensionality reduction, clustering, and classification.
 
+You can access the **PlantVillage Dataset** on Kaggle [here](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset).
+
 ## Steps Involved
 
 ### 1. **PCA for Variance Preservation**
